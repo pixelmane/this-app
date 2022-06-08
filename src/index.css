@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#board {
+  background-color: blanchedalmond;
+  height: 500px;
+  overflow-y: scroll;
+  
+}
